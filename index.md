@@ -1,11 +1,16 @@
 # Brian Njihia 
 ## Computer Science Capstone ePortfolio
 
-Welcome to my CS 499 ePortfolio. This site showcases my artifact enhancements and other projects.</p>
+Welcome to my CS 499 ePortfolio. This site showcases my artifact enhancements and other projects.
   
 [Informal Code Review Video](https://youtu.be/_5NMzmG6CWA) 
     
 ## Category 1: Software Design and Engineering (Travlr Getaways application)
+
+-
+- [Original Version](https://github.com/bnjihia23/cs499-travlr/tree/main/travlr)
+- [Enhanced Version](https://github.com/bnjihia23/cs499-travlr/tree/main/travlr-mobile)
+-
 
 ## Category 2: Algorithms and Data Structures (Course Planner)
 
@@ -16,6 +21,7 @@ This artifact is a C++ console application designed to help students and advisor
 - [README](https://github.com/bnjihia23/cs499-advising-assistance/blob/main/README.md)
 - [Original Version](https://github.com/bnjihia23/cs499-advising-assistance/tree/v1-original)
 - [Enhanced Version](https://github.com/bnjihia23/cs499-advising-assistance/tree/v2-enhanced)
-  
+- [Narrative](https://github.com/bnjihia23/bnjihia23.github.io/blob/main/CS_499_Milestone_Two_Narrative.docx)
+
 ## Category 3: Databases (Animal Shelter Dashboard)
 
