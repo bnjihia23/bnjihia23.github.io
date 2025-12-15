@@ -3,7 +3,7 @@
 
 Welcome to my CS 499 ePortfolio. This site showcases my artifact enhancements and other projects.
 
-[Professional Self-Assessment]()
+[Professional Self-Assessment](https://github.com/bnjihia23/bnjihia23.github.io/blob/main/CS_499_Professional_Self_Assessment.docx)
   
 [Code Review Video](https://youtu.be/_5NMzmG6CWA) 
     
@@ -19,7 +19,7 @@ This artifact is a full-stack application that allows users to browse and manage
 - [Narrative](https://github.com/bnjihia23/bnjihia23.github.io/blob/main/CS_499_Milestone_Two_Narrative.docx)
 
   
-## Category 2: Algorithms and Data Structures (Course Planner)
+## Category 2: Algorithms and Data Structures (Advising Assistance)
 
 This artifact is a C++ console application designed to help students and advisors explore course information and prerequisites. The program reads course data from a CSV file and allows users to view all courses in sorted order or inspect details for a specific course.
 
