@@ -1,10 +1,18 @@
 # Brian Njihia 
 ## Computer Science Capstone ePortfolio
 
-Welcome to my CS 499 ePortfolio. This site showcases my artifact enhancements and other projects.
+Welcome to my CS 499 Computer Science Capstone ePortfolio. This portfolio represents the culmination of my academic work at Southern New Hampshire University and highlights my growth across software design, algorithms and data structures, and database-driven applications. The artifacts presented here demonstrate my ability to analyze existing systems, apply meaningful enhancements, and communicate technical work in a professional context.
+
+## Professional Self-Assessment
+
+My professional self-assessment serves as an introduction to this portfolio and reflects on my experience throughout the Computer Science program. It discusses how coursework and the capstone process shaped my technical strengths, professional goals, and readiness to enter the computer science field.
 
 [Professional Self-Assessment](https://bnjihia23.github.io/CS_499_Professional_Self_Assessment.html)
-  
+
+## Code Review Video
+
+In this code review video, I evaluate three artifacts that align with the CS-499 capstone categories of software design and engineering, algorithms and data structures, and databases. I walk through each project’s existing functionality, analyze the code, and identify specific areas for improvement. For each artifact, I explain the practical enhancements I plan to implement during the capstone, focusing on improving scalability, maintainability, and overall design quality. This review establishes the foundation for the enhancements showcased in the ePortfolio.
+
 [Code Review Video](https://youtu.be/_5NMzmG6CWA) 
     
 ## Category 1: Software Design and Engineering (Travlr Getaways application)
@@ -36,7 +44,7 @@ This artifact is an application that allows users to filter, search, and visuali
 ### Artifact Links
 
 - [README](https://github.com/bnjihia23/cs320-animal-shelter-dashboard/blob/main/README.md)
-- [Original Version](https://github.com/bnjihia23/cs320-animal-shelter-dashboard/tree/v1-original)
-- [Enhanced Version](https://github.com/bnjihia23/cs320-animal-shelter-dashboard/tree/v2-enhanced)
+- [Original Version](https://github.com/bnjihia23/cs499-animal-shelter-dashboard/tree/v1-original)
+- [Enhanced Version](https://github.com/bnjihia23/cs499-animal-shelter-dashboard/tree/v2-enhanced)
 - [Narrative](https://bnjihia23.github.io/Category_3_Narrative.html)
 
