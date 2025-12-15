@@ -17,7 +17,7 @@ In this code review video, I evaluate three artifacts that align with the CS-499
     
 ## Category 1: Software Design and Engineering (Travlr Getaways application)
 
-This artifact is a full-stack application that allows users to browse and manage trip listings, while administrators can add and update trips through an internal dashboard. It uses Angular on the front end with a Node.js and Express backend connected to MongoDB.
+This artifact is a full-stack application that allows users to browse and manage trip listings, while administrators can add and update trips through an internal dashboard. It uses Angular on the front end with a Node.js and Express backend connected to MongoDB. The original application was enhanced by developing a mobile companion app that integrates with the existing Travlr system.
 
 ### Artifact Links
 
@@ -29,7 +29,7 @@ This artifact is a full-stack application that allows users to browse and manage
   
 ## Category 2: Algorithms and Data Structures (Advising Assistance)
 
-This artifact is a C++ console application designed to help students and advisors explore course information and prerequisites. The program reads course data from a CSV file and allows users to view all courses in sorted order or inspect details for a specific course.
+This artifact is a C++ console application designed to help students and advisors explore course information and prerequisites. The program reads course data from a CSV file and allows users to view courses in sorted order or inspect prerequisite information. Enhancements focus on improving efficiency and organization through appropriate data structure selection.
 
 ### Artifact Links
 
@@ -41,7 +41,7 @@ This artifact is a C++ console application designed to help students and advisor
 
 ## Category 3: Databases (Animal Shelter Dashboard)
 
-This artifact is an application that allows users to filter, search, and visualize animal outcome data from the Austin Animal Center.
+This artifact is a database-driven application that allows users to filter, search, and visualize animal outcome data from the Austin Animal Center. It demonstrates database integration, query design, and data visualization within a functional application.
 
 ### Artifact Links
 
