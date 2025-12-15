@@ -3,7 +3,7 @@
 
 Welcome to my CS 499 ePortfolio. This site showcases my artifact enhancements and other projects.
 
-[Professional Self-Assessment](https://github.com/bnjihia23/bnjihia23.github.io/blob/main/CS_499_Professional_Self_Assessment.docx)
+[Professional Self-Assessment](CS_499_Professional_Self_Assessment.md)
   
 [Code Review Video](https://youtu.be/_5NMzmG6CWA) 
     
