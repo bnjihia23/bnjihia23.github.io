@@ -37,6 +37,8 @@ This artifact is a C++ console application designed to help students and advisor
 - [Original Version](https://github.com/bnjihia23/cs499-advising-assistance/tree/v1-original)
 - [Enhanced Version](https://github.com/bnjihia23/cs499-advising-assistance/tree/v2-enhanced)
 - [Narrative](https://bnjihia23.github.io/Category_2_Narrative.html)
+
+
 ## Category 3: Databases (Animal Shelter Dashboard)
 
 This artifact is an application that allows users to filter, search, and visualize animal outcome data from the Austin Animal Center.
