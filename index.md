@@ -16,7 +16,7 @@ This artifact is a full-stack application that allows users to browse and manage
 - [README](https://github.com/bnjihia23/cs499-travlr/blob/main/README.md)
 - [Original Version](https://github.com/bnjihia23/cs499-travlr/tree/main/travlr)
 - [Enhanced Version](https://github.com/bnjihia23/cs499-travlr/tree/main/travlr-mobile)
-- [Narrative](https://github.com/bnjihia23/bnjihia23.github.io/blob/main/CS_499_Milestone_Two_Narrative.docx)
+- [Narrative](https://bnjihia23.github.io/Category_1_Narrative.html)
 
   
 ## Category 2: Algorithms and Data Structures (Advising Assistance)
@@ -28,8 +28,7 @@ This artifact is a C++ console application designed to help students and advisor
 - [README](https://github.com/bnjihia23/cs499-advising-assistance/blob/main/README.md)
 - [Original Version](https://github.com/bnjihia23/cs499-advising-assistance/tree/v1-original)
 - [Enhanced Version](https://github.com/bnjihia23/cs499-advising-assistance/tree/v2-enhanced)
-- [Narrative](https://github.com/bnjihia23/bnjihia23.github.io/blob/main/CS_499_Milestone_Three_Narrative.docx)
-
+- [Narrative](https://bnjihia23.github.io/Category_2_Narrative.html)
 ## Category 3: Databases (Animal Shelter Dashboard)
 
 This artifact is an application that allows users to filter, search, and visualize animal outcome data from the Austin Animal Center.
@@ -39,5 +38,5 @@ This artifact is an application that allows users to filter, search, and visuali
 - [README](https://github.com/bnjihia23/cs320-animal-shelter-dashboard/blob/main/README.md)
 - [Original Version](https://github.com/bnjihia23/cs320-animal-shelter-dashboard/tree/v1-original)
 - [Enhanced Version](https://github.com/bnjihia23/cs320-animal-shelter-dashboard/tree/v2-enhanced)
-- [Narrative](https://github.com/bnjihia23/bnjihia23.github.io/blob/main/CS_499_Milestone_Four_Narrative.docx)
+- [Narrative](https://bnjihia23.github.io/Category_3_Narrative.html)
 
